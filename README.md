@@ -1,2 +1,3 @@
 # data_extraction_tool
 Data extraction tools are software applications designed to gather and retrieve data from various sources, such as websites, databases, documents, or APIs, and then transfer it to a new location, like a data warehouse or storage system. 
+Data extraction tools automate the process of collecting data, reducing manual effort and time. They help organizations quickly access and organize large volumes of data from diverse sources. By reducing manual data entry, these tools minimize errors and improve data quality. They facilitate the integration of data from multiple sources into a central repository, such as a data warehouse.
